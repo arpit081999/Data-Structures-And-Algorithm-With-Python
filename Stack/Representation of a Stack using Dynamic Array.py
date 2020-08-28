@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 27 22:39:27 2020
-
 @author: Arpit Somani
 """
 
